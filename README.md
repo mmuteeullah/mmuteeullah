@@ -76,7 +76,6 @@ Previously at **Vimeo** and **Media.net**, where I saved ~$90K/yr in cloud spend
 | [FinWise](https://github.com/mmuteeullah/FinWise) | Flutter/Dart | Personal finance tracking app |
 | [kubrickz](https://github.com/mmuteeullah/kubrickz) | Python | K8s capacity visualization — fit your pods like Tetris blocks |
 | [carworth](https://github.com/mmuteeullah/carworth) | Python | Car valuation engine |
-| [terraform](https://github.com/mmuteeullah/terraform) | HCL | Infrastructure-as-Code modules |
 
 ---
 
