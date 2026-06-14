@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muteeullah-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/muteeullah)
 [![Portfolio](https://img.shields.io/badge/Portfolio-muteeullah.b0lt.foo-1a1a2e?style=flat&logo=googlechrome&logoColor=white)](https://muteeullah.b0lt.foo)
-[![GitHub followers](https://img.shields.io/github/followers/mmuteeullah?style=flat&logo=github)](https://github.com/mmuteeullah)
 
 ---
 
